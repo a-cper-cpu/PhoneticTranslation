@@ -1,0 +1,2 @@
+# PhoneticTranslation
+一个中英互译的安卓app，调用科大讯飞的语音识别、语音合成api以及百度翻译app,需要科大讯飞的appid,以及百度翻译的appid和密钥。
